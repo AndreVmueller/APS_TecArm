@@ -1,0 +1,6 @@
+c:\users\andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\bin\Debug\APS_TecArm.exe.config
+C:\Users\Andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\obj\Debug\APS_TecArm.csprojResolveAssemblyReference.cache
+C:\Users\Andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\bin\Debug\APS_TecArm.exe
+C:\Users\Andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\bin\Debug\APS_TecArm.pdb
+C:\Users\Andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\obj\Debug\APS_TecArm.exe
+C:\Users\Andre\documents\visual studio 2012\Projects\APS_TecArm\APS_TecArm\obj\Debug\APS_TecArm.pdb
